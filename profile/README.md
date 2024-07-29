@@ -1,2 +1,3 @@
-[Instagram](https://www.instagram.com/youthfinanceusa)
-[Website](youthfinanceusa.org)
+<h1 align="center">
+  Youth Finance USA
+</h1>
