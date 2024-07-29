@@ -1,5 +1,2 @@
-<h1 align="center">
-  Youth Finance USA
-</h1>
-
-github page wip
+[Instagram](https://www.instagram.com/youthfinanceusa)
+[Website](youthfinanceusa.org)
